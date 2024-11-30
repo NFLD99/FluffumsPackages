@@ -108,7 +108,7 @@ public class OcclusionCubeGeneratorWindow : EditorWindow
 
         string[] cubeNames = { "Right", "Left", "Top", "Bottom", "Front", "Back" };
 
-        Material occlusionMaterial = AssetDatabase.LoadAssetAtPath<Material>("Assets/_Fluffums/Editor/Mats/Occlusion.mat");
+        Material occlusionMaterial = AssetDatabase.LoadAssetAtPath<Material>("Assets/_Fluffums/Mats/Occlusion.mat");
         if (occlusionMaterial == null)
         {
             Debug.LogError("Occlusion material not found.");
