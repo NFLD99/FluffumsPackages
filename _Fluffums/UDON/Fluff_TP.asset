@@ -58,7 +58,7 @@ MonoBehaviour:
         stringValue: System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|none
     - fullName: VRCSDKBaseVRCPlayerApi.__TeleportTo__UnityEngineVector3_UnityEngineQuaternion__SystemVoid
       uid: c2eef542-8d06-40cf-9f1a-4f49b9ee317c
-      position: {x: 700, y: -20}
+      position: {x: 700, y: 30}
       nodeUIDs:
       - 7bb1ee74-1322-4f90-a4f4-4fdbc56552f2
       - d5731e51-62b7-48c1-beba-77c0c64b57d5
